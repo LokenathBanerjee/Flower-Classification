@@ -269,7 +269,7 @@ if prediction:
 
     st.divider()
     if st.button("Try another photo"):
-        st.session_state.uploader_key += 1  # forces file_uploader to reset visually
+        st.session_state.uploader_key += 1  
         st.session_state.file_fingerprint = None
         st.session_state.image = None
         reset_downstream_state()
