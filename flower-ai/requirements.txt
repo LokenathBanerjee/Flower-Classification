@@ -1,0 +1,15 @@
+streamlit
+tensorflow
+pillow
+numpy
+python-dotenv
+opencv-python-headless
+
+# RAG stack
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-chroma
+chromadb
+pypdf

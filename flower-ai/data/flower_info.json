@@ -1,0 +1,102 @@
+{
+  "BOUGAINVILLEA": {
+    "common_name": "Bougainvillea",
+    "scientific_name": "Bougainvillea spectabilis",
+    "family": "Nyctaginaceae",
+    "blooming_season": "Year-round in tropical climates",
+    "native_region": "South America (Brazil)",
+    "colors": ["Pink", "Purple", "Red", "Orange", "White"],
+    "uses": ["Ornamental", "Garden climber", "Traditional medicine"],
+    "description": "A vigorous climbing shrub whose vivid 'petals' are actually bracts — modified leaves — not true flowers. The real flowers are tiny and white, hidden at the centre. Extremely popular across tropical India and South Asia."
+  },
+  "CHRYSANTHEMUM": {
+    "common_name": "Chrysanthemum",
+    "scientific_name": "Chrysanthemum spp.",
+    "family": "Asteraceae",
+    "blooming_season": "Autumn",
+    "native_region": "Asia (China)",
+    "colors": ["Yellow", "White", "Red", "Purple", "Orange"],
+    "uses": ["Ornamental", "Herbal tea", "Religious offerings"],
+    "description": "A layered, multi-petaled flower closely tied to autumn and widely grown for temple offerings and garden display across East and South Asia."
+  },
+  "COSMOS": {
+    "common_name": "Cosmos",
+    "scientific_name": "Cosmos bipinnatus",
+    "family": "Asteraceae",
+    "blooming_season": "Summer to Autumn",
+    "native_region": "Mexico",
+    "colors": ["Pink", "White", "Red", "Purple"],
+    "uses": ["Ornamental", "Garden borders", "Pollinator gardens"],
+    "description": "A delicate daisy-like flower with feathery foliage. Easy to grow from seed and popular with butterflies and bees; self-seeds freely once established."
+  },
+  "GIANT CALOTROPE": {
+    "common_name": "Giant Calotrope",
+    "scientific_name": "Calotropis gigantea",
+    "family": "Apocynaceae",
+    "blooming_season": "Year-round",
+    "native_region": "South Asia (India, Bangladesh, Sri Lanka)",
+    "colors": ["Purple", "White", "Pink"],
+    "uses": ["Ayurvedic medicine", "Religious offerings", "Fibre"],
+    "description": "A large shrub with thick, waxy leaves and star-shaped flowers important in Hindu worship (offered to Lord Shiva). The plant produces a milky latex used in traditional medicine across South Asia."
+  },
+  "GLEBIONIS CORONARIA": {
+    "common_name": "Crown Daisy / Garland Chrysanthemum",
+    "scientific_name": "Glebionis coronaria",
+    "family": "Asteraceae",
+    "blooming_season": "Spring to early Summer",
+    "native_region": "Mediterranean region",
+    "colors": ["Yellow", "White", "Bi-coloured Yellow-White"],
+    "uses": ["Edible leaves (Asian cooking)", "Ornamental"],
+    "description": "Also called Shungiku in Japanese and Tong Ho in Chinese, its young leaves are cooked in stir-fries and hotpots. The bright daisy-like flowers are also grown ornamentally."
+  },
+  "HIBISCUS": {
+    "common_name": "Hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "blooming_season": "Year-round in tropical climates",
+    "native_region": "Asia",
+    "colors": ["Red", "Pink", "Yellow", "White", "Orange"],
+    "uses": ["Hair oil", "Herbal tea", "Ayurvedic medicine", "Ornamental"],
+    "description": "Large trumpet-shaped flowers that open for a single day. The national flower of Malaysia and deeply embedded in Indian Ayurvedic hair and skin care."
+  },
+  "MARIGOLD": {
+    "common_name": "Marigold",
+    "scientific_name": "Tagetes spp.",
+    "family": "Asteraceae",
+    "blooming_season": "Summer to Autumn",
+    "native_region": "Mexico and Central America",
+    "colors": ["Orange", "Yellow", "Red"],
+    "uses": ["Religious ceremonies", "Garlands", "Natural pest repellent"],
+    "description": "The most widely used flower in Indian festivals and weddings. Planted in vegetable gardens to deter pests; the strong scent repels insects naturally."
+  },
+  "NAYANTARA": {
+    "common_name": "Periwinkle / Nayantara",
+    "scientific_name": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "blooming_season": "Year-round",
+    "native_region": "Madagascar",
+    "colors": ["Pink", "White", "Purple", "Red", "Lavender"],
+    "uses": ["Traditional medicine", "Cancer treatment (vincristine)", "Ornamental"],
+    "description": "Called Nayantara ('star of the eye') in Bengali, this common roadside flower is medically significant — it is the source of vincristine and vinblastine, chemotherapy drugs used to treat leukaemia and other cancers."
+  },
+  "PETUNIA": {
+    "common_name": "Petunia",
+    "scientific_name": "Petunia × atkinsiana",
+    "family": "Solanaceae",
+    "blooming_season": "Spring to Autumn",
+    "native_region": "South America (Argentina)",
+    "colors": ["Purple", "Pink", "Red", "White", "Yellow", "Multicoloured"],
+    "uses": ["Ornamental", "Garden borders", "Hanging baskets"],
+    "description": "A popular garden annual with funnel-shaped flowers that come in almost every colour. Trailing varieties are particularly favoured for window boxes and hanging baskets."
+  },
+  "TAGAR": {
+    "common_name": "Crape Jasmine / Tagar",
+    "scientific_name": "Tabernaemontana divaricata",
+    "family": "Apocynaceae",
+    "blooming_season": "Year-round",
+    "native_region": "India, South Asia",
+    "colors": ["White"],
+    "uses": ["Religious offerings", "Traditional medicine", "Ornamental"],
+    "description": "Known as Chandni in Hindi and Tagar in Bengali, the pinwheel-shaped white flowers are offered in Hindu worship. Very commonly found in West Bengal and throughout South Asia."
+  }
+}
