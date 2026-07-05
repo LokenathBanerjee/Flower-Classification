@@ -8,10 +8,10 @@ from src.predictor import FlowerPredictor
 from src.rag_pipeline import FlowerRAG
 from src.utils import format_confidence, get_api_key, get_flower_info, load_json_file
 
-MODEL_PATH = "model/final_model.keras"
-CLASS_NAMES_PATH = "data/class_names.json"
-FLOWER_INFO_PATH = "data/flower_info.json"
-VECTOR_DB_PATH = "vector_db"
+MODEL_PATH = "flower-ai/model/final_model.keras"
+CLASS_NAMES_PATH = "flower-ai/data/class_names.json"
+FLOWER_INFO_PATH = "flower-ai/data/flower_info.json"
+VECTOR_DB_PATH = "flower-ai/vector_db"
 MAX_PREVIEW_MB = 10
 
 st.set_page_config(page_title="Flower AI", page_icon="🌸", layout="centered")
