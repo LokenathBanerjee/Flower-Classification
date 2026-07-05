@@ -8,8 +8,11 @@ The system combines deep learning, explainable AI (Grad-CAM), and a Retrieval-Au
 
 ## 🔗 Live Demo
 
-> **[Launch the App →](https://your-app-name.streamlit.app)** *(replace with your Streamlit Cloud URL)*
-
+<p align="center">
+  <a href="https://flower-classification-bwuktirlzuulm62rfrw6wu.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Open-Live%20Demo-blue?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 ---
 
 ## 🏗️ Architecture at a Glance
