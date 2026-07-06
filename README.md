@@ -1,4 +1,4 @@
-# 🌸 Flower AI — Flower Classification + RAG-Based Information System
+# 🌸 AI-Powered Flower Classifier with RAG-Based Q&A
 
 A deep learning system that classifies **10 flower species** from a custom dataset captured using mobile phones in real outdoor environments.
 
